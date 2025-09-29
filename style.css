@@ -132,4 +132,3 @@ p { color: var(--grey-color); margin-bottom: 1rem; max-width: 700px; margin-left
   .main-nav.is-open ul { flex-direction: column; width: 100%; }
   .main-nav.is-open ul li { margin: 0.5rem 0; text-align: center; }
 }
-
